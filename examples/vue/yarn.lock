@@ -23,10 +23,10 @@
     chalk "^2.0.0"
     js-tokens "^4.0.0"
 
-"@bulmil/core@0.9.0", "@bulmil/core@latest":
-  version "0.9.0"
-  resolved "https://registry.yarnpkg.com/@bulmil/core/-/core-0.9.0.tgz#b9cf966f7120b2601358c16a947a2ce371346d57"
-  integrity sha512-rUh9XdvNF7Lt84TNqY7iIq7p1LMl1LC/CoIN17DW96oY06v2nNjsfRpxPts9GOdQA+ZZYq+ZcDAeB2CmI5pB0w==
+"@bulmil/core@0.10.0", "@bulmil/core@latest":
+  version "0.10.0"
+  resolved "https://registry.yarnpkg.com/@bulmil/core/-/core-0.10.0.tgz#c49953703a0ba472fafa2f45f762083bf77fb6a2"
+  integrity sha512-FLgOKj3nH6rjGfayyrlZV+aQ6nJYdsa2T6sZynbZKu3ok7FULDJTwmpEie6x5MqiwYF6L0H1ml/RNMuGWBw5WA==
   dependencies:
     "@creativebulma/bulma-badge" "^1.0.1"
     "@creativebulma/bulma-divider" "^1.1.0"
@@ -35,11 +35,11 @@
     bulma-switch "^2.0.0"
 
 "@bulmil/vue@latest":
-  version "0.9.0"
-  resolved "https://registry.yarnpkg.com/@bulmil/vue/-/vue-0.9.0.tgz#bcaa2f205273098d77c5096a2060ab9670aa7154"
-  integrity sha512-0/a6Jy442cmOzvzwVgUOfSCnVSg8ia/2PRPIvdXtvEHJ0BgUkaVfdZF1lNCXyfEEI5khTHDpvFfYSwqaMjx6nA==
+  version "0.10.0"
+  resolved "https://registry.yarnpkg.com/@bulmil/vue/-/vue-0.10.0.tgz#d4101628f47aa8d7a6136de726e9729d75819781"
+  integrity sha512-oniZTyluAkzm0HxPC6N9BkhLXQE0ofl1jO6JWQSwuwo/z+N/yV9pDmWm1kY70yaVc9gP9dB/7rY5cCGuhJvMMA==
   dependencies:
-    "@bulmil/core" "0.9.0"
+    "@bulmil/core" "0.10.0"
 
 "@creativebulma/bulma-badge@^1.0.1":
   version "1.0.1"
@@ -158,9 +158,9 @@
     "@types/node" "*"
 
 "@types/express-serve-static-core@*":
-  version "4.17.9"
-  resolved "https://registry.yarnpkg.com/@types/express-serve-static-core/-/express-serve-static-core-4.17.9.tgz#2d7b34dcfd25ec663c25c85d76608f8b249667f1"
-  integrity sha512-DG0BYg6yO+ePW+XoDENYz8zhNGC3jDDEpComMYn7WJc4mY1Us8Rw9ax2YhJXxpyk2SF47PQAoQ0YyVT1a0bEkA==
+  version "4.17.10"
+  resolved "https://registry.yarnpkg.com/@types/express-serve-static-core/-/express-serve-static-core-4.17.10.tgz#2b6a49f28f7aaa3c875338c65c41ef55cd8ae62a"
+  integrity sha512-hkM+0ydGOwKRuxcDSjFas/zpC6htqcIcYG5gdPOP1bAhszBi+eB2PlMfUUXkI0EQSG1Xbgn7IZ+yD6GVYsqB2Q==
   dependencies:
     "@types/node" "*"
     "@types/qs" "*"

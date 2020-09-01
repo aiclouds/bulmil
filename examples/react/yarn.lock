@@ -1148,10 +1148,10 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@bulmil/core@0.9.0", "@bulmil/core@latest":
-  version "0.9.0"
-  resolved "https://registry.yarnpkg.com/@bulmil/core/-/core-0.9.0.tgz#b9cf966f7120b2601358c16a947a2ce371346d57"
-  integrity sha512-rUh9XdvNF7Lt84TNqY7iIq7p1LMl1LC/CoIN17DW96oY06v2nNjsfRpxPts9GOdQA+ZZYq+ZcDAeB2CmI5pB0w==
+"@bulmil/core@0.10.0", "@bulmil/core@latest":
+  version "0.10.0"
+  resolved "https://registry.yarnpkg.com/@bulmil/core/-/core-0.10.0.tgz#c49953703a0ba472fafa2f45f762083bf77fb6a2"
+  integrity sha512-FLgOKj3nH6rjGfayyrlZV+aQ6nJYdsa2T6sZynbZKu3ok7FULDJTwmpEie6x5MqiwYF6L0H1ml/RNMuGWBw5WA==
   dependencies:
     "@creativebulma/bulma-badge" "^1.0.1"
     "@creativebulma/bulma-divider" "^1.1.0"
@@ -1160,11 +1160,11 @@
     bulma-switch "^2.0.0"
 
 "@bulmil/react@latest":
-  version "0.9.0"
-  resolved "https://registry.yarnpkg.com/@bulmil/react/-/react-0.9.0.tgz#e21c55790ee717c892b206f2e5db1ca0113fa1e3"
-  integrity sha512-Jcii5n5H5CNVmbO+e/Fibnj2ICU2l00tigUuyoEx3FSVSRD/TxsV6RMhFqePLESwb30NNmml5UM+xpzm5u0ANg==
+  version "0.10.0"
+  resolved "https://registry.yarnpkg.com/@bulmil/react/-/react-0.10.0.tgz#2cfc608554c91150533b016b4dc8e7e7c78a4de2"
+  integrity sha512-znY/8O4jy+0RKa/5IPxtfS+/7jMvMaQhdnTyeuQuRVfIJ2rYB+QYu3V0+JNf4Ifmg5Rxi/bOBi8CwAYU81Jvew==
   dependencies:
-    "@bulmil/core" "0.9.0"
+    "@bulmil/core" "0.10.0"
 
 "@cnakazawa/watch@^1.0.3":
   version "1.0.4"
